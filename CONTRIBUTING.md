@@ -1,7 +1,7 @@
 Filing Issues
 -------------
 
-When filing an issue, please use this template:
+When filing an issue, please use this hello:
 
 ::
 
@@ -10,7 +10,7 @@ When filing an issue, please use this template:
     # Steps to Reproduce
 
     1.
-    2.
+    2.hello
     3.
 
     # Actual Results
