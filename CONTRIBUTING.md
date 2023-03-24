@@ -10,7 +10,8 @@ When filing an issue, please use this template:
     # Steps to Reproduce
 
     1.
-    2.
+    2.goodnight
+    
     3.
 
     # Actual Results
