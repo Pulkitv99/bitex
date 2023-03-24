@@ -17,7 +17,7 @@
 Exchanges:
 - HitBTC API Client & Interface
 - Bter API Client & Interface
-- Vaultoro API Client & Interface
+goodnight
 
 APIs:
 - The Following Exchanges had their WSS API implemented:
