@@ -4,6 +4,8 @@
 ## Fixed
  - Fixed Bittrex `deposit_address()` per PR #72
  - Fixed Cryptopia's currencies per PR #71
+ hello
+ bye
  - Fixed Cryptopia's signature method #69
  - Fixed missing encoding in GDAX authorization
 
